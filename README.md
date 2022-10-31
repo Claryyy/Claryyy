@@ -1,14 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Clarisse 👋
 
-<!--
-**Claryyy/Claryyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been working as a Frontend developer for the last two years or so. But I also have knowledge of Backend and Infrastructure.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on creating my first Node/Express project!
-- 🌱 I’m currently learning Node.Js, Express, MongoDB (on top of React)
-- 💬 Ask me about good food
+- 🔭 I’m particularly interested in working with the latest technologies to solve real user problems!
+- 🌱 I’m currently learning about the new features of Next13 and will be looking at learning more about TRPC in a few weeks.
+- 💬 Ask me about good food, mountain sports and fantasy books.
 - 📫 How to reach me: via LinkedIn
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I learned to ski when I was 3
--->
+- ⚡ Fun fact: I learned to ski when I was 3 years old
