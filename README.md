@@ -6,5 +6,5 @@ I use TypeScript, React and Next.js everyday and love these technologies. I have
 - 🔭 I’m particularly interested in working with the latest technologies to solve real user problems!
 - 🌱 I’m currently learning about the new features of Next13.
 - 💬 Ask me about good food, mountain sports and fantasy books.
-- 📫 How to reach me: via LinkedIn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/clarisse-leduc/)
 - ⚡ Fun fact: I learned to ski when I was 3 years old.
